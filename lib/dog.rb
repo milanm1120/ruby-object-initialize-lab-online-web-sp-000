@@ -10,3 +10,5 @@ end
 fido = Dog.new("Fido", "Beagle")
 puts fido.name
 puts fido.breed
+
+snoopy = Dog.new("Snoopy")
