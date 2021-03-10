@@ -12,3 +12,5 @@ puts fido.name
 puts fido.breed
 
 snoopy = Dog.new("Snoopy")
+puts snoopy.name
+puts snoopy.breed
