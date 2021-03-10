@@ -7,4 +7,4 @@ end
 
 
 fido = Dog.new("Fido", "Beagle")
-puts fido
+puts fido.name
