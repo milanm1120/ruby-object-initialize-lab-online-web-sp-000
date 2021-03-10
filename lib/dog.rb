@@ -8,4 +8,4 @@ end
 
 
 fido = Dog.new("Fido", "Beagle")
-puts fido.name
+puts fido.name + fido.breed
